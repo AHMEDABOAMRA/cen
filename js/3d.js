@@ -77,6 +77,7 @@ if (toggleStatus == 1) {
       autoplaySpeed: 1000,
       speed: 300,
       slidesToShow: 2,
+      arrows:false,
       adaptiveHeight: true, adaptiveWidth: true  });
     });
     
